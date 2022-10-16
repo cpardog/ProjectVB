@@ -5,7 +5,7 @@ Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
         Console.WriteLine("Bebe hermoso")
-        sumar(10, 20)
+        sumar(30, 30)
         Console.ReadKey()
 
     End Sub
