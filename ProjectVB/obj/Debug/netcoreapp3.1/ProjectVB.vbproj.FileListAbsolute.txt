@@ -25,3 +25,4 @@ C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectV
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.dll
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.pdb
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.genruntimeconfig.cache
+C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.vbproj.AssemblyReference.cache
