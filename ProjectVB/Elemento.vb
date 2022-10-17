@@ -8,9 +8,15 @@ Public Class Elemento
     Private _serial As String
     Private _color As String
     Private _estado As Boolean
+    Public Sub New(tipo As String, mk As String, sn As String)
+        _tipoElemento = tipo
+        _fabricante = mk
+        _serial = sn
+        _color = "Blanco"
+        _estado = True
+    End Sub
 
     Public Sub New(id As Integer, tipo As String, mk As String, sn As String, color As String, estado As Boolean)
-
         _idelemento = id
         _tipoElemento = tipo
         _fabricante = mk
