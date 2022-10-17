@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos A Pardo G\\source\\repos\\projectVB\\ProjectVB\\ProjectVB.vbproj": {}
+    "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos A Pardo G\\source\\repos\\projectVB\\ProjectVB\\ProjectVB.vbproj": {
+    "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos A Pardo G\\source\\repos\\projectVB\\ProjectVB\\ProjectVB.vbproj",
+        "projectUniqueName": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
         "projectName": "ProjectVB",
-        "projectPath": "C:\\Users\\Carlos A Pardo G\\source\\repos\\projectVB\\ProjectVB\\ProjectVB.vbproj",
-        "packagesPath": "C:\\Users\\Carlos A Pardo G\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos A Pardo G\\source\\repos\\projectVB\\ProjectVB\\obj\\",
+        "projectPath": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
+        "packagesPath": "C:\\Users\\cpard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Carlos A Pardo G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cpard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
