@@ -12,17 +12,16 @@ C:\Users\Carlos A Pardo G\source\repos\projectVB\ProjectVB\obj\Debug\netcoreapp3
 C:\Users\Carlos A Pardo G\source\repos\projectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.dll
 C:\Users\Carlos A Pardo G\source\repos\projectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.pdb
 C:\Users\Carlos A Pardo G\source\repos\projectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.genruntimeconfig.cache
+C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.AssemblyInfoInputs.cache
+C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.AssemblyInfo.vb
+C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.vbproj.CoreCompileInputs.cache
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.exe
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.deps.json
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.runtimeconfig.json
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.runtimeconfig.dev.json
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.dll
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\bin\Debug\netcoreapp3.1\ProjectVB.pdb
-C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.vbproj.AssemblyReference.cache
-C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.AssemblyInfoInputs.cache
-C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.AssemblyInfo.vb
-C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.vbproj.CoreCompileInputs.cache
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.dll
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.pdb
 C:\Users\cpard\Source\Repos\ProjectVB\ProjectVB\obj\Debug\netcoreapp3.1\ProjectVB.genruntimeconfig.cache
