@@ -7,8 +7,17 @@ Public Class Elemento
     Private _fabricante As String
     Private _serial As String
     Private _color As String
+    Private _estado As Boolean
 
+    Public Sub New(id As Integer, tipo As String, mk As String, sn As String, color As String, estado As Boolean)
 
+        _idelemento = id
+        _tipoElemento = tipo
+        _fabricante = mk
+        _serial = sn
+        _color = color
+        _estado = estado
+    End Sub
     Public Property IdElemento() As Integer
         Get
             Return _idelemento
@@ -52,7 +61,7 @@ Public Class Elemento
             _color = value
         End Set
     End Property
-    Private _estado As Boolean
+
     Public Property Estado() As Boolean
         Get
             Return _estado
