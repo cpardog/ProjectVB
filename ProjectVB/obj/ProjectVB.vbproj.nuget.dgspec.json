@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {}
+    "C:\\Users\\cpard\\source\\repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {
+    "C:\\Users\\cpard\\source\\repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
+        "projectUniqueName": "C:\\Users\\cpard\\source\\repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
         "projectName": "ProjectVB",
-        "projectPath": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
+        "projectPath": "C:\\Users\\cpard\\source\\repos\\ProjectVB\\ProjectVB\\ProjectVB.vbproj",
         "packagesPath": "C:\\Users\\cpard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpard\\Source\\Repos\\ProjectVB\\ProjectVB\\obj\\",
+        "outputPath": "C:\\Users\\cpard\\source\\repos\\ProjectVB\\ProjectVB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
