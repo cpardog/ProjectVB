@@ -1,5 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
-
+Imports System.Data.SqlClient
 Public Class Elemento
 
     Private _idelemento As Integer
