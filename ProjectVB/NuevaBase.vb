@@ -1,5 +1,9 @@
-﻿Imports ProjectVB
-Public Class class1
+﻿
+Imports System.Data
+Imports System.Data.SqlClient
+
+Module NuevaBase
+
     Public cn As SqlConnection
     Public sql As String
     Public Function conectar() As SqlConnection
@@ -17,4 +21,6 @@ Public Class class1
         Return dt
 
     End Function
-End Class
+
+
+End Module

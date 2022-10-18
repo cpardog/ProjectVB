@@ -76,6 +76,4 @@ Public Class Elemento
             _estado = value
         End Set
     End Property
-
-
 End Class

@@ -10,7 +10,6 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ProjectVB", "ProjectVB.vbpr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D3CD2C8-4E01-4BA7-AA3A-2B914FEF5564}"
 	ProjectSection(SolutionItems) = preProject
-		Basedatos.vb = Basedatos.vb
 		Elemento.vb = Elemento.vb
 	EndProjectSection
 EndProject

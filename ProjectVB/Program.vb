@@ -1,5 +1,3 @@
-Imports System
-
 Module Program
     Private suma As Integer
     Private resta As Integer
@@ -8,7 +6,7 @@ Module Program
         Console.WriteLine("Bebe hermoso")
         'sumar(80, 20)
         'restar(80, 20)
-        Console.WriteLine("La suma con la función sumar es {0}", fsumar(80, 20))
+        Console.WriteLine("La suma con la función sumar es {0}", Fsumar(80, 20))
         Console.WriteLine("La suma con la función restar es {0}", Frestar(80, 20))
         Console.WriteLine("La función potencia nos da {0}", Fpotencia(2, 10))
         Console.ReadKey()
